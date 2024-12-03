@@ -1,6 +1,6 @@
 # sortimports
 
-A Python CLI tool to sort imports according to CIA's coding conventions.
+A Python CLI tool to sort imports.
 
 ## Installation
 
@@ -10,3 +10,4 @@ pip install .
 
 ## Usage
 sortimports <file_path>
+sortimports -s YOURSLUG <file_path>
