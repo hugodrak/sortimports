@@ -10,4 +10,6 @@ pip install .
 
 ## Usage
 sortimports <file_path>
+
+
 sortimports -s YOURSLUG <file_path>
